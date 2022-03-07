@@ -1,3 +1,3 @@
 function main(params) {
-    console.log(params)
+    return { payload: params }
 }
